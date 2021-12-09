@@ -41,7 +41,7 @@ Or you can save efforts and download our [Data_download_file.ipynb](https://gith
 
 ### For 1D - CNN
 
-You can download and use the file [SEDAN_CNN.ipynb](https://github.com/S-E-D-A-N/src/blob/main/SEDAN_CNN.ipynb)
+You can download and use the file [CNN_Model_SEDAN.ipynb](https://github.com/rebel55555/S.E.D.A.N/blob/main/CNN_Model_SEDAN.ipynb)
 
 ### For other models
 
